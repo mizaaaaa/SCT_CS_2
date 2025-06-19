@@ -25,6 +25,7 @@ A simple GUI application for encrypting and decrypting image files using a key-b
    git clone https://github.com/mizaaaaa/SCT_CS_2.git
    cd SCT_CS_2
    ```
+   
 
 2. **Install dependencies:**
    ```bash
