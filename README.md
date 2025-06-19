@@ -11,9 +11,6 @@ A simple GUI application for encrypting and decrypting image files using a key-b
 - Overwrite-protection for output files.
 - Cross-platform support (Windows, macOS, Linux).
 
-## Screenshots
-
-> _You can add screenshots here to demonstrate the UI._
 
 ## Requirements
 
@@ -73,4 +70,4 @@ This project is licensed under the MIT License.
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 ---
-Feel free to contribute or open issues for suggestions and bug reports!
+
